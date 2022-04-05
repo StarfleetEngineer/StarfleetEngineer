@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 
       - Email: matthewjohnson@starfleetengineer.com
-      - Website: https://www.starfleetengineer.com (Coming soon!)
 
 <!---
 StarfleetEngineer/StarfleetEngineer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
