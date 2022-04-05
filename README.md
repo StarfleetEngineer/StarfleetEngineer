@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StarfleetEngineer
 - 👀 I’m interested in Cloud Engineering, Machine Learning Engineering, and Software Engineering
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning data science and software engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: matthewjohnson@starfleetengineer.com
 
